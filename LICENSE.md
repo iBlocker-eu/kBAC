@@ -22,7 +22,6 @@ CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFT
 OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
-
 YOU MAY NOW RE-DISTRIBUTE OUR SOFTWARE. BUT YOU SHOULD KEEP
 THIS COPYRIGHT.TXT FILE INTACT AND DISTRIBUTE IT WITH OUR
 FILES OR FILE ARCHIVES. WE ALSO WELCOME ANY LINKS BACK TO OUR
@@ -33,63 +32,12 @@ OTHER BULK ADVERTISING AND ILLEGAL ACTIVITIES.
 
 --------------------------------------//------------------------------------------------
 
-Third party license notice
-
-iBlocker.eu is using Netfilter (https://netfilter.org) distributed under 
-the terms of the GNU GPLv2 only (https://www.gnu.org/licences). If you
-distribute netfilter/iptables code in binary form, you have to offer
-the source code, too. Updated license information can be found at
-https://netfilter.org/about.html#license
-
----------------------------------------//----------------------------------------------
-
 iBlocker is using Perl which may be copied only under the terms of 
 either the Artistic License or the GNU General Public License, 
 which may be found in the Perl 5 source kit.
 Complete documentation for Perl, including FAQ lists, should be found on
 this system using "man perl" or "perldoc perl".  If you have access to the
 Internet, point your browser at http://www.perl.org/, the Perl Home Page.
-
---------------------------------------//----------------------------------------------
-
-iBlocker is running on Raspbian Stretch Lite or Bullseye Lite (https://www.raspberrypi.org/download/raspbian)
-which is under Free and open-source software licenses (mainly GPL).
-Updated license information can be found at https://www.gnu.org/license/#GPL
-
---------------------------------------//----------------------------------------------
-
-Motion is an open source type of project. It does not cost anything. Motion is published under the GNU GENERAL PUBLIC LICENSE (GPL) version 2 or later.
-http://www.gnu.org/licenses/gpl-3.0.html
-
---------------------------------------//----------------------------------------------
-ipverse/rir-ip is licensed under the
-
-Creative Commons Zero v1.0 Universal
-The Creative Commons CC0 Public Domain Dedication waives copyright interest in a work you've created and dedicates it to the world-wide public domain. Use CC0 to opt out of copyright entirely and ensure your work has the widest reach. As with the Unlicense and typical software licenses, CC0 disclaims warranties. CC0 is very similar to the Unlicense.
-iBlocker.eu is using ipverse country block  which are based on data generously provided
- by the RIRs: RIPE NCC, ARIN, AFRINIC and APNIC.
-https://github.com/ipverse/rir-ip/blob/master/LICENSE
-
----------------------------------------//---------------------------------------------
-
-Script for automatic setup of an IPsec VPN server (vpnsetup.sh) on Ubuntu LTS and Debian.
-Works on any dedicated server or virtual private server (VPS) except OpenVZ.
-
-Creative Commons Attribution-ShareAlike 3.0 Unported License
-Link to license summary: https://creativecommons.org/licenses/by-sa/3.0/
-
-Copyright (C) 2014-2022 Lin Song
-Based on the work of Thomas Sarlandie (Copyright 2012)
-
-See the aws/ and azure/ subfolders for their respective authors.
-
-The following four files (only) are licensed under the GPL:
-clients.md, clients-zh.md, clients-xauth.md and clients-xauth-zh.md
-
-THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE COMMONS PUBLIC LICENSE ("CCPL" OR "LICENSE"). THE WORK IS PROTECTED BY COPYRIGHT AND/OR OTHER APPLICABLE LAW. ANY USE OF THE WORK OTHER THAN AS AUTHORIZED UNDER THIS LICENSE OR COPYRIGHT LAW IS PROHIBITED.
-
-BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HERE, YOU ACCEPT AND AGREE TO BE BOUND BY THE TERMS OF THIS LICENSE. TO THE EXTENT THIS LICENSE MAY BE CONSIDERED TO BE A CONTRACT, THE LICENSOR GRANTS YOU THE RIGHTS CONTAINED HERE IN CONSIDERATION OF YOUR ACCEPTANCE OF SUCH TERMS AND CONDITIONS.
-https://github.com/hwdsl2/setup-ipsec-vpn/blob/master/LICENSE.md
 
 --------------------------------------//----------------------------------------------
 
