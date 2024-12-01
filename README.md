@@ -23,7 +23,7 @@ After user uploads his .kdbx file, the database ID is generated - e.g. acceda388
 
 In case user wants to change the ID to a friendly name, he has to login to container and change it as below:
 ```
-docker exec -it  conkbac sh
+docker exec -it containerkbac sh
 cd /var/www/localhost/cgi-bin/keepass/INSERTED/
 mv acceda388dfc.kdbx iBlocker.kdbx
 ```
