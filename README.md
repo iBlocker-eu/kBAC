@@ -1,4 +1,4 @@
-KeePass Access Based Control
+KeePass Based Access
 
 Upload your KeePass .kdbx database to kBac Docker container, and access your Passwords/PIN(s)/Secrets from smartphone, PC, tablet.
 
